@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dee-coder
+- 👋 Hi, I’m Deepak Rai
 - 👀 I’m interested in Javascript, React, Python and other new technologies
-- 🌱 I’m currently learning BlockChain
+- 🌱 I’m currently working on AI and ML projects
 - 💞️ I’m looking to collaborate on projects that give me learning challenge. 
 - 📫 You can reach me at mail2deepakrai@gmail.com
 
